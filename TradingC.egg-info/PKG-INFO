@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: TradingC
+Version: 0.0.1
+Summary: Trade in Binance when perpetual price is higher than actual stock price
+Home-page: https://github.com/GamingGGa/TradingC
+Author: gamingGGa
+Author-email: admin@example.com
+License: MIT
+Project-URL: Source, https://github.com/GamingGGa/TradingC
+Description: # TradingC
+        Trade in Binance when perpetual price is higher than actual stock price
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
